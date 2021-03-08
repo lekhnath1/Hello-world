@@ -1,0 +1,7 @@
+[gui]
+	recentrepo = C:/kenzie
+[user]
+	name = Lekhnath Banjade
+	email = leksbanjade16@gmail.com
+[pull]
+	rebase = true
